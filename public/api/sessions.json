@@ -1,0 +1,421 @@
+[{
+  "id": 1,
+  "title": "Fusce consequat.",
+  "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+  "start": "2021-04-19T13:00:00Z",
+  "duration_minutes": 30,
+  "person_name": "Terrell Reye",
+  "type": {
+    "id": "di52t8",
+    "name": "Diskussion",
+    "icon": "bi-chat"
+  },
+  "status": "accepted",
+  "flags": [
+    "Nacktheit ist nicht erwünscht",
+    "Anfängerfreundlich"
+  ],
+  "max_ppl": 87,
+  "registered_ppl": 82,
+  "video_url": "https://example.com/conference/aliquam&maecenas=erat&pulvinar=volutpat&lobortis=in&est=congue&phasellus=etiam"
+}, {
+  "id": 2,
+  "title": "Maecenas pulvinar lobortis est.",
+  "description": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+  "start": "2021-03-18T15:00:00Z",
+  "duration_minutes": 30,
+  "person_name": "Bettye Elphee",
+  "type": {
+    "id": "p7ef4c",
+    "name": "Vortrag",
+    "icon": "bi-easel"
+  },
+  "status": "accepted",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Nacktheit ist nicht erwünscht",
+    "Spiritualität kommt nicht vor"
+  ],
+  "max_ppl": 20,
+  "registered_ppl": 4,
+  "video_url": "https://example.com/conference/amet?vulputate=est&justo=risus"
+}, {
+  "id": 3,
+  "title": "Proin risus.",
+  "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.",
+  "start": "2021-03-18T15:00:00Z",
+  "duration_minutes": 60,
+  "person_name": "Leroi Trumper",
+  "type": {
+    "id": "w2yi99",
+    "name": "Workshop",
+    "icon": "bi-palette"
+  },
+  "status": "accepted",
+  "flags": [
+    "Einschalten der Kamera ist Pflicht",
+    "Anfängerfreundlich"
+  ],
+  "max_ppl": 53,
+  "registered_ppl": 25,
+  "video_url": "https://example.com/conference/pretiumiaculis?et=diam&eros=in&vestibulum=magna&ac=bibendum"
+}, {
+  "id": 4,
+  "title": "Nullam varius.",
+  "description": "Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.",
+  "start": "2021-03-18T14:00:00Z",
+  "duration_minutes": 60,
+  "person_name": "Debera Mollison",
+  "type": {
+    "id": "w2yi99",
+    "name": "Workshop",
+    "icon": "bi-palette"
+  },
+  "status": "accepted",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Nacktheit ist nicht erwünscht",
+    "Sexualität ist nicht relevant",
+    "Anfängerfreundlich"
+  ],
+  "max_ppl": 56,
+  "registered_ppl": 43,
+  "video_url": "https://example.com/conference/integera?et=vel&commodo=augue"
+}, {
+  "id": 5,
+  "title": "Vestibulum rutrum rutrum neque.",
+  "description": "Vivamus tortor. Duis mattis egestas metus. Aenean fermentum.",
+  "start": "2021-03-19T11:30:00Z",
+  "duration_minutes": 90,
+  "person_name": "Hally Bedson",
+  "type": {
+    "id": "di52t8",
+    "name": "Diskussion",
+    "icon": "bi-chat"
+  },
+  "status": "accepted",
+  "flags": [
+    "Anfängerfreundlich"
+  ],
+  "max_ppl": 68,
+  "registered_ppl": 24,
+  "video_url": "https://example.com/conference/ultrices?morbi=curae&odio=nulla&odio=dapibus&elementum=dolor&eu=vel"
+}, {
+  "id": 6,
+  "title": "Integer non velit.",
+  "description": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+  "start": "2021-03-20T13:30:00Z",
+  "duration_minutes": 90,
+  "person_name": "Gracie Gentreau",
+  "type": {
+    "id": "p7ef4c",
+    "name": "Vortrag",
+    "icon": "bi-easel"
+  },
+  "status": "accepted",
+  "flags": [
+    "Einschalten der Kamera ist Pflicht",
+    "Spiritualität kommt nicht vor"
+  ],
+  "max_ppl": 16,
+  "registered_ppl": 4,
+  "video_url": "https://example.com/conference/aclobortis?ante=eget&ipsum=rutrum&primis=at&in=lorem&faucibus=integer&orci=tincidunt&luctus=ante&et=vel"
+}, {
+  "id": 7,
+  "title": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
+  "description": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
+  "start": "2021-03-18T20:45:00Z",
+  "duration_minutes": 15,
+  "person_name": "Blair Illem",
+  "type": {
+    "id": "w2yi99",
+    "name": "Workshop",
+    "icon": "bi-palette"
+  },
+  "status": "undecided",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Einschalten der Kamera ist Pflicht",
+    "Nacktheit ist nicht erwünscht",
+    "Sexualität ist nicht relevant",
+    "Spiritualität kommt nicht vor"
+  ],
+  "max_ppl": 51,
+  "registered_ppl": 0,
+  "video_url": "https://example.com/conference/pharetravestibulum?eu=velit&est=vivamus&congue=vel"
+}, {
+  "id": 8,
+  "title": "Integer a nibh.",
+  "description": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+  "start": "2021-03-20T16:20:00Z",
+  "duration_minutes": 45,
+  "person_name": "Timmi Littlejohn",
+  "type": {
+    "id": "di52t8",
+    "name": "Diskussion",
+    "icon": "bi-chat"
+  },
+  "status": "undecided",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Einschalten der Kamera ist Pflicht",
+    "Nacktheit ist erwünscht"
+  ],
+  "max_ppl": 64,
+  "registered_ppl": 0,
+  "video_url": "https://example.com/conference/felis?quis=maecenas&turpis=pulvinar&sed=lobortis"
+}, {
+  "id": 9,
+  "title": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+  "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+  "start": "2021-03-21T19:00:00Z",
+  "duration_minutes": 30,
+  "person_name": "Mireille Lukes",
+  "type": {
+    "id": "w2yi99",
+    "name": "Workshop",
+    "icon": "bi-palette"
+  },
+  "status": "declined",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Spiritualität kommt vor",
+    "Anfängerfreundlich"
+  ],
+  "max_ppl": 75,
+  "registered_ppl": 0,
+  "video_url": "https://example.com/conference/ac?vehicula=convallis&condimentum=nunc&curabitur=proin&in=at&libero=turpis&ut=a&massa=pede"
+}, {
+  "id": 10,
+  "title": "Mauris sit amet eros.",
+  "description": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+  "start": "2021-03-18T18:00:00Z",
+  "duration_minutes": 90,
+  "person_name": "Gerome Leacock",
+  "type": {
+    "id": "di52t8",
+    "name": "Diskussion",
+    "icon": "bi-chat"
+  },
+  "status": "undecided",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Einschalten der Kamera ist Pflicht",
+    "Nacktheit ist erwünscht"
+  ],
+  "max_ppl": 26,
+  "registered_ppl": 0,
+  "video_url": "https://example.com/conference/curabiturat.aspx?erat=ante&tortor=ipsum&sollicitudin=primis&mi=in"
+}, {
+  "id": 11,
+  "title": "Suspendisse potenti.",
+  "description": "Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+  "start": "2021-03-20T23:00:00Z",
+  "duration_minutes": 90,
+  "person_name": "Alysa Colleran",
+  "type": {
+    "id": "p7ef4c",
+    "name": "Vortrag",
+    "icon": "bi-easel"
+  },
+  "status": "accepted",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Einschalten der Kamera ist Pflicht",
+    "Spiritualität kommt nicht vor",
+    "Nacktheit ist nicht erwünscht",
+    "Anfängerfreundlich"
+  ],
+  "max_ppl": 79,
+  "registered_ppl": 33,
+  "video_url": "https://example.com/conference/consequatmorbi?nulla=morbi&nisl=non&nunc=lectus&nisl=aliquam&duis=sit&bibendum=amet&felis=diam&sed=in&interdum=magna"
+}, {
+  "id": 12,
+  "title": "Sed vel enim sit amet nunc viverra dapibus.",
+  "description": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+  "start": "2021-03-19T12:00:00Z",
+  "duration_minutes": 30,
+  "person_name": "Galven Hillum",
+  "type": {
+    "id": "di52t8",
+    "name": "Diskussion",
+    "icon": "bi-chat"
+  },
+  "status": "declined",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Sexualität ist nicht relevant",
+    "Nacktheit ist nicht erwünscht",
+    "Anfängerfreundlich"
+  ],
+  "max_ppl": 47,
+  "registered_ppl": 0,
+  "video_url": "https://example.com/conference/vitae.json?id=luctus&turpis=ultricies&integer=eu&aliquet=nibh&massa=quisque&id=id"
+}, {
+  "id": 13,
+  "title": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+  "description": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",
+  "start": "2021-03-19T15:45:00Z",
+  "duration_minutes": 90,
+  "person_name": "Luce Justis",
+  "type": {
+    "id": "di52t8",
+    "name": "Diskussion",
+    "icon": "bi-chat"
+  },
+  "status": "accepted",
+  "flags": [
+    "Einschalten der Kamera ist Pflicht",
+    "Sexualität ist nicht relevant",
+    "Nacktheit ist nicht erwünscht",
+    "Anfängerfreundlich"
+  ],
+  "max_ppl": 29,
+  "registered_ppl": 29,
+  "video_url": "https://example.com/conference/sem?ultrices=rhoncus&aliquet=sed&maecenas=vestibulum&leo=sit&odio=amet"
+}, {
+  "id": 14,
+  "title": "Sed vel enim sit amet nunc viverra dapibus.",
+  "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",
+  "start": "2021-03-19T09:30:00Z",
+  "duration_minutes": 45,
+  "person_name": "Brinn Rissom",
+  "type": {
+    "id": "w2yi99",
+    "name": "Workshop",
+    "icon": "bi-palette"
+  },
+  "status": "declined",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Sexualität ist relevant",
+    "Spiritualität kommt nicht vor"
+  ],
+  "max_ppl": 65,
+  "registered_ppl": 0,
+  "video_url": "https://example.com/conference/phasellusin?enim=lacinia&lorem=nisi&ipsum=venenatis&dolor=tristique&sit=fusce"
+}, {
+  "id": 15,
+  "title": "Quisque id justo sit amet sapien dignissim vestibulum.",
+  "description": "Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+  "start": "2021-03-19T14:30:00Z",
+  "duration_minutes": 90,
+  "person_name": "Ainslie Ronald",
+  "type": {
+    "id": "w2yi99",
+    "name": "Workshop",
+    "icon": "bi-palette"
+  },
+  "status": "undecided",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Einschalten der Kamera ist Pflicht",
+    "Nacktheit ist nicht erwünscht",
+    "Sexualität ist nicht relevant",
+    "Anfängerfreundlich"
+  ],
+  "max_ppl": 45,
+  "registered_ppl": 0,
+  "video_url": "https://example.com/conference/libero?eu=condimentum&mi=id&nulla=luctus&ac=nec"
+}, {
+  "id": 16,
+  "title": "Nullam porttitor lacus at turpis.",
+  "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+  "start": "2021-03-20T13:30:00Z",
+  "duration_minutes": 60,
+  "person_name": "Aubert Verity",
+  "type": {
+    "id": "w2yi99",
+    "name": "Workshop",
+    "icon": "bi-palette"
+  },
+  "status": "undecided",
+  "flags": [
+    "Nacktheit ist erwünscht",
+    "Sexualität ist relevant"
+  ],
+  "max_ppl": 61,
+  "registered_ppl": 0,
+  "video_url": "https://example.com/conference/potentiin?nec=etiam&euismod=justo&scelerisque=etiam&quam=pretium"
+}, {
+  "id": 17,
+  "title": "Ut at dolor quis odio consequat varius.",
+  "description": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl.",
+  "start": "2021-03-18T19:30:00Z",
+  "duration_minutes": 45,
+  "person_name": "Leonelle Voase",
+  "type": {
+    "id": "di52t8",
+    "name": "Diskussion",
+    "icon": "bi-chat"
+  },
+  "status": "accepted",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Nacktheit ist nicht erwünscht",
+    "Spiritualität kommt vor"
+  ],
+  "max_ppl": 60,
+  "registered_ppl": 16,
+  "video_url": "https://example.com/conference/nuncnisl?curabitur=nisi&convallis=at"
+}, {
+  "id": 18,
+  "title": "Suspendisse potenti.",
+  "description": "Etiam pretium iaculis justo. In hac habitasse platea dictumst.",
+  "start": "2021-03-18T12:45:00Z",
+  "duration_minutes": 30,
+  "person_name": "Leena Boots",
+  "type": {
+    "id": "p7ef4c",
+    "name": "Vortrag",
+    "icon": "bi-easel"
+  },
+  "status": "declined",
+  "flags": [
+    "Einschalten der Kamera ist Pflicht",
+    "Spiritualität kommt nicht vor"
+  ],
+  "max_ppl": 32,
+  "registered_ppl": 0,
+  "video_url": "https://example.com/conference/vivamus?semper=gravida&est=nisi&quam=at"
+}, {
+  "id": 19,
+  "title": "In hac habitasse platea dictumst.",
+  "description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+  "start": "2021-03-19T11:00:00Z",
+  "duration_minutes": 90,
+  "person_name": "Chick Aronsohn",
+  "type": {
+    "id": "p7ef4c",
+    "name": "Vortrag",
+    "icon": "bi-easel"
+  },
+  "status": "accepted",
+  "flags": [
+    "Anfängerfreundlich"
+  ],
+  "max_ppl": 59,
+  "registered_ppl": 23,
+  "video_url": "https://example.com/conference/praesent?elit=eget&proin=semper&risus=rutrum&praesent=nulla&lectus=nunc&vestibulum=purus"
+}, {
+  "id": 20,
+  "title": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+  "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.",
+  "start": "2021-03-20T16:00:00Z",
+  "duration_minutes": 90,
+  "person_name": "Beckie Ruben",
+  "type": {
+    "id": "w2yi99",
+    "name": "Workshop",
+    "icon": "bi-palette"
+  },
+  "status": "declined",
+  "flags": [
+    "Pünktlichkeit ist fast egal. Nachkommen ist jederzeit ok",
+    "Sexualität ist relevant",
+    "Anfängerfreundlich"
+  ],
+  "max_ppl": 83,
+  "registered_ppl": 0,
+  "video_url": "https://example.com/conference/tortor?magna=quis&bibendum=tortor&imperdiet=id&nullam=nulla&orci=ultrices&pede=aliquet"
+}]
