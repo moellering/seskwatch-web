@@ -8,7 +8,7 @@
   "type": {
     "id": "di52t8",
     "name": "Diskussion",
-    "icon": "bi-chat"
+    "icon": "chat"
   },
   "status": "accepted",
   "flags": [
@@ -28,7 +28,7 @@
   "type": {
     "id": "p7ef4c",
     "name": "Vortrag",
-    "icon": "bi-easel"
+    "icon": "easel"
   },
   "status": "accepted",
   "flags": [
@@ -49,7 +49,7 @@
   "type": {
     "id": "w2yi99",
     "name": "Workshop",
-    "icon": "bi-palette"
+    "icon": "flower1"
   },
   "status": "accepted",
   "flags": [
@@ -69,7 +69,7 @@
   "type": {
     "id": "w2yi99",
     "name": "Workshop",
-    "icon": "bi-palette"
+    "icon": "flower1"
   },
   "status": "accepted",
   "flags": [
@@ -91,7 +91,7 @@
   "type": {
     "id": "di52t8",
     "name": "Diskussion",
-    "icon": "bi-chat"
+    "icon": "chat"
   },
   "status": "accepted",
   "flags": [
@@ -110,7 +110,7 @@
   "type": {
     "id": "p7ef4c",
     "name": "Vortrag",
-    "icon": "bi-easel"
+    "icon": "easel"
   },
   "status": "accepted",
   "flags": [
@@ -130,7 +130,7 @@
   "type": {
     "id": "w2yi99",
     "name": "Workshop",
-    "icon": "bi-palette"
+    "icon": "flower1"
   },
   "status": "undecided",
   "flags": [
@@ -153,7 +153,7 @@
   "type": {
     "id": "di52t8",
     "name": "Diskussion",
-    "icon": "bi-chat"
+    "icon": "chat"
   },
   "status": "undecided",
   "flags": [
@@ -174,7 +174,7 @@
   "type": {
     "id": "w2yi99",
     "name": "Workshop",
-    "icon": "bi-palette"
+    "icon": "flower1"
   },
   "status": "declined",
   "flags": [
@@ -195,7 +195,7 @@
   "type": {
     "id": "di52t8",
     "name": "Diskussion",
-    "icon": "bi-chat"
+    "icon": "chat"
   },
   "status": "undecided",
   "flags": [
@@ -216,7 +216,7 @@
   "type": {
     "id": "p7ef4c",
     "name": "Vortrag",
-    "icon": "bi-easel"
+    "icon": "easel"
   },
   "status": "accepted",
   "flags": [
@@ -239,7 +239,7 @@
   "type": {
     "id": "di52t8",
     "name": "Diskussion",
-    "icon": "bi-chat"
+    "icon": "chat"
   },
   "status": "declined",
   "flags": [
@@ -261,7 +261,7 @@
   "type": {
     "id": "di52t8",
     "name": "Diskussion",
-    "icon": "bi-chat"
+    "icon": "chat"
   },
   "status": "accepted",
   "flags": [
@@ -283,7 +283,7 @@
   "type": {
     "id": "w2yi99",
     "name": "Workshop",
-    "icon": "bi-palette"
+    "icon": "flower1"
   },
   "status": "declined",
   "flags": [
@@ -304,7 +304,7 @@
   "type": {
     "id": "w2yi99",
     "name": "Workshop",
-    "icon": "bi-palette"
+    "icon": "flower1"
   },
   "status": "undecided",
   "flags": [
@@ -327,7 +327,7 @@
   "type": {
     "id": "w2yi99",
     "name": "Workshop",
-    "icon": "bi-palette"
+    "icon": "flower1"
   },
   "status": "undecided",
   "flags": [
@@ -347,7 +347,7 @@
   "type": {
     "id": "di52t8",
     "name": "Diskussion",
-    "icon": "bi-chat"
+    "icon": "chat"
   },
   "status": "accepted",
   "flags": [
@@ -368,7 +368,7 @@
   "type": {
     "id": "p7ef4c",
     "name": "Vortrag",
-    "icon": "bi-easel"
+    "icon": "easel"
   },
   "status": "declined",
   "flags": [
@@ -388,7 +388,7 @@
   "type": {
     "id": "p7ef4c",
     "name": "Vortrag",
-    "icon": "bi-easel"
+    "icon": "easel"
   },
   "status": "accepted",
   "flags": [
@@ -407,7 +407,7 @@
   "type": {
     "id": "w2yi99",
     "name": "Workshop",
-    "icon": "bi-palette"
+    "icon": "flower1"
   },
   "status": "declined",
   "flags": [
